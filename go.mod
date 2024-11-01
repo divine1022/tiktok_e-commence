@@ -1,4 +1,4 @@
-module tiktok_e-commence
+module github.com/divine1022/tiktok_e-commence
 
 go 1.23.2
 
